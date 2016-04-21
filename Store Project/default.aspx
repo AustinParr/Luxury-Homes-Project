@@ -10,7 +10,7 @@
 </head>
 <body style="background-color:dodgerblue;">
     <h1 style="color:white;font-size:450%;text-align:center;background-color:black;">
-            <div style="background-color:black; color:white;">
+            <div style="background-color:black; color:white;width: 300px;text-align:center;">
             Luxury Living Spaces
             </div>
     </h1>
